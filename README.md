@@ -1,2 +1,2 @@
 # MyAppWeb
-This is my first project in JavScript
+This is my first project in JavaScript
